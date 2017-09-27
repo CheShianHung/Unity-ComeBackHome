@@ -1,0 +1,20 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\ImageEnding.cs">
+    <Files>
+      <File FileName="Assets\Script\AutoRestart.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\PlayerMovement.cs" Line="225" Column="7" />
+      <File FileName="Assets\Script\SaveAndLoad.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\StartMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\SceneCollider.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\BeginPosition.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\EndingTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\Video.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\ImageEnding.cs" Line="17" Column="38" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

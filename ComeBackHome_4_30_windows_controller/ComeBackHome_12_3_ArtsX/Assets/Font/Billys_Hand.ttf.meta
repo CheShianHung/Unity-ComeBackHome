@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ccddf5549180f314b9b0308cab5137e0
+timeCreated: 1489356466
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Billy's Hand
+  fontNames:
+  - Billy's Hand
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

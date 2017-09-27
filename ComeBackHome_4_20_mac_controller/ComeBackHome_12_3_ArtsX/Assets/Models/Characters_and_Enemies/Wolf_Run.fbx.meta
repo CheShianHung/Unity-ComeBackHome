@@ -1,0 +1,331 @@
+fileFormatVersion: 2
+guid: d3ab65e6f02497748911091ef844f31c
+timeCreated: 1480630553
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: anim_chest01
+    100002: anim_COG01
+    100004: anim_head01
+    100006: anim_L_backFoot01
+    100008: anim_L_frontFoot01
+    100010: anim_L_Hip01
+    100012: anim_L_Shoulder01
+    100014: anim_L_Toe
+    100016: anim_R_backFoot01
+    100018: anim_R_frontFoot01
+    100020: anim_R_Hip01
+    100022: anim_R_Shoulder01
+    100024: anim_R_Toe
+    100026: anim_root01
+    100028: anim_shoulders01
+    100030: anim_spine01
+    100032: anim_tailBase01
+    100034: anim_tailEnd01
+    100036: anim_tailMid01
+    100038: joint1
+    100040: joint10
+    100042: joint11
+    100044: joint12
+    100046: joint12 1
+    100048: joint13
+    100050: joint13 1
+    100052: joint14
+    100054: joint14 1
+    100056: joint15
+    100058: joint15 1
+    100060: joint16
+    100062: joint16 1
+    100064: joint17
+    100066: joint2
+    100068: joint24
+    100070: joint25
+    100072: joint25 1
+    100074: joint26
+    100076: joint26 1
+    100078: joint27
+    100080: joint27 1
+    100082: joint28
+    100084: joint28 1
+    100086: joint29
+    100088: joint29 1
+    100090: joint3
+    100092: joint30
+    100094: joint37
+    100096: joint4
+    100098: joint5
+    100100: joint6
+    100102: joint7
+    100104: joint8
+    100106: joint9
+    100108: Wolf
+    100110: //RootNode
+    400000: anim_chest01
+    400002: anim_COG01
+    400004: anim_head01
+    400006: anim_L_backFoot01
+    400008: anim_L_frontFoot01
+    400010: anim_L_Hip01
+    400012: anim_L_Shoulder01
+    400014: anim_L_Toe
+    400016: anim_R_backFoot01
+    400018: anim_R_frontFoot01
+    400020: anim_R_Hip01
+    400022: anim_R_Shoulder01
+    400024: anim_R_Toe
+    400026: anim_root01
+    400028: anim_shoulders01
+    400030: anim_spine01
+    400032: anim_tailBase01
+    400034: anim_tailEnd01
+    400036: anim_tailMid01
+    400038: joint1
+    400040: joint10
+    400042: joint11
+    400044: joint12
+    400046: joint12 1
+    400048: joint13
+    400050: joint13 1
+    400052: joint14
+    400054: joint14 1
+    400056: joint15
+    400058: joint15 1
+    400060: joint16
+    400062: joint16 1
+    400064: joint17
+    400066: joint2
+    400068: joint24
+    400070: joint25
+    400072: joint25 1
+    400074: joint26
+    400076: joint26 1
+    400078: joint27
+    400080: joint27 1
+    400082: joint28
+    400084: joint28 1
+    400086: joint29
+    400088: joint29 1
+    400090: joint3
+    400092: joint30
+    400094: joint37
+    400096: joint4
+    400098: joint5
+    400100: joint6
+    400102: joint7
+    400104: joint8
+    400106: joint9
+    400108: Wolf
+    400110: //RootNode
+    7400000: Wolf_Run
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Wolf_Run
+      takeName: Take 001
+      firstFrame: 1
+      lastFrame: 60
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: anim_root01
+        weight: 1
+      - path: anim_root01/anim_COG01
+        weight: 1
+      - path: anim_root01/anim_COG01/anim_L_Hip01
+        weight: 1
+      - path: anim_root01/anim_COG01/anim_L_Shoulder01
+        weight: 1
+      - path: anim_root01/anim_COG01/anim_R_Hip01
+        weight: 1
+      - path: anim_root01/anim_COG01/anim_R_Shoulder01
+        weight: 1
+      - path: anim_root01/anim_COG01/anim_spine01
+        weight: 1
+      - path: anim_root01/anim_COG01/anim_spine01/anim_chest01
+        weight: 1
+      - path: anim_root01/anim_COG01/anim_spine01/anim_chest01/anim_shoulders01
+        weight: 1
+      - path: anim_root01/anim_COG01/anim_spine01/anim_chest01/anim_shoulders01/anim_head01
+        weight: 1
+      - path: anim_root01/anim_COG01/anim_tailBase01
+        weight: 1
+      - path: anim_root01/anim_COG01/anim_tailBase01/anim_tailMid01
+        weight: 1
+      - path: anim_root01/anim_COG01/anim_tailBase01/anim_tailMid01/anim_tailEnd01
+        weight: 1
+      - path: anim_root01/anim_L_backFoot01
+        weight: 1
+      - path: anim_root01/anim_L_frontFoot01
+        weight: 1
+      - path: anim_root01/anim_L_Toe
+        weight: 1
+      - path: anim_root01/anim_R_backFoot01
+        weight: 1
+      - path: anim_root01/anim_R_frontFoot01
+        weight: 1
+      - path: anim_root01/anim_R_Toe
+        weight: 1
+      - path: anim_root01/Wolf
+        weight: 1
+      - path: anim_root01/Wolf/joint1
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint2
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint2/joint3
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint2/joint3/joint4
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint2/joint3/joint4/joint5
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint2/joint3/joint4/joint5/joint6
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint2/joint3/joint4/joint5/joint6/joint7
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint2/joint3/joint4/joint17
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint2/joint3/joint4/joint17/joint12
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint2/joint3/joint4/joint17/joint12/joint13
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint2/joint3/joint4/joint17/joint12/joint13/joint14
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint2/joint3/joint4/joint17/joint12/joint13/joint14/joint15
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint2/joint3/joint4/joint17/joint12/joint13/joint14/joint15/joint16
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint2/joint3/joint4/joint24
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint2/joint3/joint4/joint24/joint12 1
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint2/joint3/joint4/joint24/joint12 1/joint13
+          1
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint2/joint3/joint4/joint24/joint12 1/joint13
+          1/joint14 1
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint2/joint3/joint4/joint24/joint12 1/joint13
+          1/joint14 1/joint15 1
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint2/joint3/joint4/joint24/joint12 1/joint13
+          1/joint14 1/joint15 1/joint16 1
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint8
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint8/joint9
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint8/joint9/joint10
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint8/joint9/joint10/joint11
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint8/joint30
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint8/joint30/joint25
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint8/joint30/joint25/joint26
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint8/joint30/joint25/joint26/joint27
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint8/joint30/joint25/joint26/joint27/joint28
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint8/joint30/joint25/joint26/joint27/joint28/joint29
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint8/joint37
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint8/joint37/joint25 1
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint8/joint37/joint25 1/joint26 1
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint8/joint37/joint25 1/joint26 1/joint27 1
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint8/joint37/joint25 1/joint26 1/joint27 1/joint28
+          1
+        weight: 1
+      - path: anim_root01/Wolf/joint1/joint8/joint37/joint25 1/joint26 1/joint27 1/joint28
+          1/joint29 1
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 1
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

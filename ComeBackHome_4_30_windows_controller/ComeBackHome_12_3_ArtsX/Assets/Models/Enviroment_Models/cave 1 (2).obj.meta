@@ -1,0 +1,178 @@
+fileFormatVersion: 2
+guid: 9af4bf218c48c78499e312ae9dbcd567
+timeCreated: 1480407042
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: cave_1:pCube5_cave_1:polySurface15_cave_1:polySurface1
+    100004: cave_1:pCube6_cave_1:polySurface10_cave_1:polySurface1_cave_1:polySurface19
+    100006: cave_1:pCube6_cave_1:polySurface6_cave_1:polySurface1_cave_1:polySurface16
+    100008: cave_1:pCube6_cave_1:polySurface7_cave_1:polySurface1_cave_1:polySurface17
+    100010: cave_1:pCube6_cave_1:polySurface9_cave_1:polySurface1_cave_1:polySurface18
+    100012: cave_1:polySurface15_cave_1:polySurface1
+    100014: cave_1:Stalagmite_10_cave_1:polySurface1_cave_1:polySurface25
+    100016: cave_1:Stalagmite_11_cave_1:polySurface1_cave_1:polySurface26
+    100018: cave_1:Stalagmite_12_cave_1:polySurface1_cave_1:polySurface27
+    100020: cave_1:Stalagmite_13_cave_1:polySurface1_cave_1:polySurface28
+    100022: cave_1:Stalagmite_14_cave_1:polySurface1_cave_1:polySurface29
+    100024: cave_1:Stalagmite_15_cave_1:polySurface1_cave_1:polySurface30
+    100026: cave_1:Stalagmite_16_cave_1:polySurface11_cave_1:polySurface1_cave_1:polySurface31
+    100028: cave_1:Stalagmite_16_cave_1:polySurface12_cave_1:polySurface1_cave_1:polySurface32
+    100030: cave_1:Stalagmite_16_cave_1:polySurface13_cave_1:polySurface1_cave_1:polySurface33
+    100032: cave_1:Stalagmite_16_cave_1:polySurface14_cave_1:polySurface1_cave_1:polySurface34
+    100034: cave_1:Stalagmite_1_cave_1:polySurface1_cave_1:polySurface20
+    100036: cave_1:Stalagmite_2_cave_1:polySurface1_cave_1:polySurface21
+    100038: cave_1:Stalagmite_7_cave_1:polySurface1_cave_1:polySurface22
+    100040: cave_1:Stalagmite_8_cave_1:polySurface1_cave_1:polySurface23
+    100042: cave_1:Stalagmite_9_cave_1:polySurface1_cave_1:polySurface24
+    400000: //RootNode
+    400002: cave_1:pCube5_cave_1:polySurface15_cave_1:polySurface1
+    400004: cave_1:pCube6_cave_1:polySurface10_cave_1:polySurface1_cave_1:polySurface19
+    400006: cave_1:pCube6_cave_1:polySurface6_cave_1:polySurface1_cave_1:polySurface16
+    400008: cave_1:pCube6_cave_1:polySurface7_cave_1:polySurface1_cave_1:polySurface17
+    400010: cave_1:pCube6_cave_1:polySurface9_cave_1:polySurface1_cave_1:polySurface18
+    400012: cave_1:polySurface15_cave_1:polySurface1
+    400014: cave_1:Stalagmite_10_cave_1:polySurface1_cave_1:polySurface25
+    400016: cave_1:Stalagmite_11_cave_1:polySurface1_cave_1:polySurface26
+    400018: cave_1:Stalagmite_12_cave_1:polySurface1_cave_1:polySurface27
+    400020: cave_1:Stalagmite_13_cave_1:polySurface1_cave_1:polySurface28
+    400022: cave_1:Stalagmite_14_cave_1:polySurface1_cave_1:polySurface29
+    400024: cave_1:Stalagmite_15_cave_1:polySurface1_cave_1:polySurface30
+    400026: cave_1:Stalagmite_16_cave_1:polySurface11_cave_1:polySurface1_cave_1:polySurface31
+    400028: cave_1:Stalagmite_16_cave_1:polySurface12_cave_1:polySurface1_cave_1:polySurface32
+    400030: cave_1:Stalagmite_16_cave_1:polySurface13_cave_1:polySurface1_cave_1:polySurface33
+    400032: cave_1:Stalagmite_16_cave_1:polySurface14_cave_1:polySurface1_cave_1:polySurface34
+    400034: cave_1:Stalagmite_1_cave_1:polySurface1_cave_1:polySurface20
+    400036: cave_1:Stalagmite_2_cave_1:polySurface1_cave_1:polySurface21
+    400038: cave_1:Stalagmite_7_cave_1:polySurface1_cave_1:polySurface22
+    400040: cave_1:Stalagmite_8_cave_1:polySurface1_cave_1:polySurface23
+    400042: cave_1:Stalagmite_9_cave_1:polySurface1_cave_1:polySurface24
+    2300000: cave_1:pCube5_cave_1:polySurface15_cave_1:polySurface1
+    2300002: cave_1:pCube6_cave_1:polySurface10_cave_1:polySurface1_cave_1:polySurface19
+    2300004: cave_1:pCube6_cave_1:polySurface6_cave_1:polySurface1_cave_1:polySurface16
+    2300006: cave_1:pCube6_cave_1:polySurface7_cave_1:polySurface1_cave_1:polySurface17
+    2300008: cave_1:pCube6_cave_1:polySurface9_cave_1:polySurface1_cave_1:polySurface18
+    2300010: cave_1:polySurface15_cave_1:polySurface1
+    2300012: cave_1:Stalagmite_10_cave_1:polySurface1_cave_1:polySurface25
+    2300014: cave_1:Stalagmite_11_cave_1:polySurface1_cave_1:polySurface26
+    2300016: cave_1:Stalagmite_12_cave_1:polySurface1_cave_1:polySurface27
+    2300018: cave_1:Stalagmite_13_cave_1:polySurface1_cave_1:polySurface28
+    2300020: cave_1:Stalagmite_14_cave_1:polySurface1_cave_1:polySurface29
+    2300022: cave_1:Stalagmite_15_cave_1:polySurface1_cave_1:polySurface30
+    2300024: cave_1:Stalagmite_16_cave_1:polySurface11_cave_1:polySurface1_cave_1:polySurface31
+    2300026: cave_1:Stalagmite_16_cave_1:polySurface12_cave_1:polySurface1_cave_1:polySurface32
+    2300028: cave_1:Stalagmite_16_cave_1:polySurface13_cave_1:polySurface1_cave_1:polySurface33
+    2300030: cave_1:Stalagmite_16_cave_1:polySurface14_cave_1:polySurface1_cave_1:polySurface34
+    2300032: cave_1:Stalagmite_1_cave_1:polySurface1_cave_1:polySurface20
+    2300034: cave_1:Stalagmite_2_cave_1:polySurface1_cave_1:polySurface21
+    2300036: cave_1:Stalagmite_7_cave_1:polySurface1_cave_1:polySurface22
+    2300038: cave_1:Stalagmite_8_cave_1:polySurface1_cave_1:polySurface23
+    2300040: cave_1:Stalagmite_9_cave_1:polySurface1_cave_1:polySurface24
+    3300000: cave_1:pCube5_cave_1:polySurface15_cave_1:polySurface1
+    3300002: cave_1:pCube6_cave_1:polySurface10_cave_1:polySurface1_cave_1:polySurface19
+    3300004: cave_1:pCube6_cave_1:polySurface6_cave_1:polySurface1_cave_1:polySurface16
+    3300006: cave_1:pCube6_cave_1:polySurface7_cave_1:polySurface1_cave_1:polySurface17
+    3300008: cave_1:pCube6_cave_1:polySurface9_cave_1:polySurface1_cave_1:polySurface18
+    3300010: cave_1:polySurface15_cave_1:polySurface1
+    3300012: cave_1:Stalagmite_10_cave_1:polySurface1_cave_1:polySurface25
+    3300014: cave_1:Stalagmite_11_cave_1:polySurface1_cave_1:polySurface26
+    3300016: cave_1:Stalagmite_12_cave_1:polySurface1_cave_1:polySurface27
+    3300018: cave_1:Stalagmite_13_cave_1:polySurface1_cave_1:polySurface28
+    3300020: cave_1:Stalagmite_14_cave_1:polySurface1_cave_1:polySurface29
+    3300022: cave_1:Stalagmite_15_cave_1:polySurface1_cave_1:polySurface30
+    3300024: cave_1:Stalagmite_16_cave_1:polySurface11_cave_1:polySurface1_cave_1:polySurface31
+    3300026: cave_1:Stalagmite_16_cave_1:polySurface12_cave_1:polySurface1_cave_1:polySurface32
+    3300028: cave_1:Stalagmite_16_cave_1:polySurface13_cave_1:polySurface1_cave_1:polySurface33
+    3300030: cave_1:Stalagmite_16_cave_1:polySurface14_cave_1:polySurface1_cave_1:polySurface34
+    3300032: cave_1:Stalagmite_1_cave_1:polySurface1_cave_1:polySurface20
+    3300034: cave_1:Stalagmite_2_cave_1:polySurface1_cave_1:polySurface21
+    3300036: cave_1:Stalagmite_7_cave_1:polySurface1_cave_1:polySurface22
+    3300038: cave_1:Stalagmite_8_cave_1:polySurface1_cave_1:polySurface23
+    3300040: cave_1:Stalagmite_9_cave_1:polySurface1_cave_1:polySurface24
+    4300000: cave_1:pCube5_cave_1:polySurface15_cave_1:polySurface1
+    4300002: cave_1:pCube6_cave_1:polySurface10_cave_1:polySurface1_cave_1:polySurface19
+    4300004: cave_1:pCube6_cave_1:polySurface6_cave_1:polySurface1_cave_1:polySurface16
+    4300006: cave_1:pCube6_cave_1:polySurface7_cave_1:polySurface1_cave_1:polySurface17
+    4300008: cave_1:pCube6_cave_1:polySurface9_cave_1:polySurface1_cave_1:polySurface18
+    4300010: cave_1:polySurface15_cave_1:polySurface1
+    4300012: cave_1:Stalagmite_10_cave_1:polySurface1_cave_1:polySurface25
+    4300014: cave_1:Stalagmite_11_cave_1:polySurface1_cave_1:polySurface26
+    4300016: cave_1:Stalagmite_12_cave_1:polySurface1_cave_1:polySurface27
+    4300018: cave_1:Stalagmite_13_cave_1:polySurface1_cave_1:polySurface28
+    4300020: cave_1:Stalagmite_14_cave_1:polySurface1_cave_1:polySurface29
+    4300022: cave_1:Stalagmite_15_cave_1:polySurface1_cave_1:polySurface30
+    4300024: cave_1:Stalagmite_16_cave_1:polySurface11_cave_1:polySurface1_cave_1:polySurface31
+    4300026: cave_1:Stalagmite_16_cave_1:polySurface12_cave_1:polySurface1_cave_1:polySurface32
+    4300028: cave_1:Stalagmite_16_cave_1:polySurface13_cave_1:polySurface1_cave_1:polySurface33
+    4300030: cave_1:Stalagmite_16_cave_1:polySurface14_cave_1:polySurface1_cave_1:polySurface34
+    4300032: cave_1:Stalagmite_1_cave_1:polySurface1_cave_1:polySurface20
+    4300034: cave_1:Stalagmite_2_cave_1:polySurface1_cave_1:polySurface21
+    4300036: cave_1:Stalagmite_7_cave_1:polySurface1_cave_1:polySurface22
+    4300038: cave_1:Stalagmite_8_cave_1:polySurface1_cave_1:polySurface23
+    4300040: cave_1:Stalagmite_9_cave_1:polySurface1_cave_1:polySurface24
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

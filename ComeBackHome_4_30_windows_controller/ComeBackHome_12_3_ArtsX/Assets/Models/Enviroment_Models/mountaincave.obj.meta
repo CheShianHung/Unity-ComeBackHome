@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 7a659c5737cf8ec4c9d8a9f87aa31282
+timeCreated: 1479257283
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: m_Mountain_bake
+    100002: m_Mountain_bake1
+    100004: m_Mountain_bake2
+    100006: Mountain_Background:m_Mountain_bake
+    100008: //RootNode
+    100010: polySurface3
+    100012: Village_Ground:group88_Village_Ground:m_ground_bake_Village_Ground:polySurface1
+    100014: group88_m_ground_bake_polySurface4_polySurface15
+    100016: m_Mountain_bake1_polySurface1_polySurface8
+    100018: m_Mountain_bake3_polySurface1_polySurface10
+    100020: m_Mountain_bake_polySurface1_polySurface6
+    100022: polySurface15
+    100024: polySurface3_polySurface5_polySurface1
+    400000: m_Mountain_bake
+    400002: m_Mountain_bake1
+    400004: m_Mountain_bake2
+    400006: Mountain_Background:m_Mountain_bake
+    400008: //RootNode
+    400010: polySurface3
+    400012: Village_Ground:group88_Village_Ground:m_ground_bake_Village_Ground:polySurface1
+    400014: group88_m_ground_bake_polySurface4_polySurface15
+    400016: m_Mountain_bake1_polySurface1_polySurface8
+    400018: m_Mountain_bake3_polySurface1_polySurface10
+    400020: m_Mountain_bake_polySurface1_polySurface6
+    400022: polySurface15
+    400024: polySurface3_polySurface5_polySurface1
+    2300000: m_Mountain_bake
+    2300002: m_Mountain_bake1
+    2300004: m_Mountain_bake2
+    2300006: Mountain_Background:m_Mountain_bake
+    2300008: polySurface3
+    2300010: Village_Ground:group88_Village_Ground:m_ground_bake_Village_Ground:polySurface1
+    2300012: group88_m_ground_bake_polySurface4_polySurface15
+    2300014: m_Mountain_bake1_polySurface1_polySurface8
+    2300016: m_Mountain_bake3_polySurface1_polySurface10
+    2300018: m_Mountain_bake_polySurface1_polySurface6
+    2300020: polySurface15
+    2300022: polySurface3_polySurface5_polySurface1
+    3300000: m_Mountain_bake
+    3300002: m_Mountain_bake1
+    3300004: m_Mountain_bake2
+    3300006: Mountain_Background:m_Mountain_bake
+    3300008: polySurface3
+    3300010: Village_Ground:group88_Village_Ground:m_ground_bake_Village_Ground:polySurface1
+    3300012: group88_m_ground_bake_polySurface4_polySurface15
+    3300014: m_Mountain_bake1_polySurface1_polySurface8
+    3300016: m_Mountain_bake3_polySurface1_polySurface10
+    3300018: m_Mountain_bake_polySurface1_polySurface6
+    3300020: polySurface15
+    3300022: polySurface3_polySurface5_polySurface1
+    4300000: m_Mountain_bake
+    4300002: m_Mountain_bake1
+    4300004: m_Mountain_bake2
+    4300006: Mountain_Background:m_Mountain_bake
+    4300008: polySurface3
+    4300010: Village_Ground:group88_Village_Ground:m_ground_bake_Village_Ground:polySurface1
+    4300012: group88_m_ground_bake_polySurface4_polySurface15
+    4300014: m_Mountain_bake1_polySurface1_polySurface8
+    4300016: m_Mountain_bake3_polySurface1_polySurface10
+    4300018: m_Mountain_bake_polySurface1_polySurface6
+    4300020: polySurface15
+    4300022: polySurface3_polySurface5_polySurface1
+    6400000: m_Mountain_bake
+    6400002: m_Mountain_bake1
+    6400004: m_Mountain_bake2
+    6400006: Mountain_Background:m_Mountain_bake
+    6400008: polySurface3
+    6400010: Village_Ground:group88_Village_Ground:m_ground_bake_Village_Ground:polySurface1
+    6400012: group88_m_ground_bake_polySurface4_polySurface15
+    6400014: m_Mountain_bake1_polySurface1_polySurface8
+    6400016: m_Mountain_bake3_polySurface1_polySurface10
+    6400018: m_Mountain_bake_polySurface1_polySurface6
+    6400020: polySurface15
+    6400022: polySurface3_polySurface5_polySurface1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

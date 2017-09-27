@@ -1,0 +1,26 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\JournalScript.cs">
+    <Files>
+      <File FileName="Assets\Script\basicAI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\InnerBoxTextTrigger.cs" Line="106" Column="6" />
+      <File FileName="Assets\Script\OuterBoxParticleTrigger.cs" Line="1" Column="1" />
+      <File FileName="Assets\Script\EnemyDetection.cs" Line="17" Column="1" />
+      <File FileName="Assets\Script\SceneCollider.cs" Line="40" Column="84" />
+      <File FileName="Assets\Script\SaveAndLoad.cs" Line="44" Column="47" />
+      <File FileName="Assets\Script\PauseMenuButtons.cs" Line="15" Column="1" />
+      <File FileName="Assets\Script\PlayerMovement.cs" Line="43" Column="2" />
+      <File FileName="Assets\Script\SceneM.cs" Line="116" Column="20" />
+      <File FileName="Assets\Script\JournalScript.cs" Line="55" Column="2" />
+      <File FileName="Assets\JournalNotDestroy.cs" Line="12" Column="30" />
+      <File FileName="Assets\Script\NotDestroyOnLoad.cs" Line="13" Column="28" />
+      <File FileName="Assets\Script\CameraMovement.cs" Line="188" Column="27" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <RunToCursorBreakpoint file="C:\Users\jampiaw\Desktop\Unity-12_1\Unity-3d-6-showcase-0f55b16bb31d5b0024836a790f64c38e5764eea6\ComeBackHome_12_1\ComeBackHome_12_3\Assets\Script\JournalScript.cs" line="65" column="2" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

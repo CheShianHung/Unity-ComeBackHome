@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/Village_Scene_cave2.unity
+  isLoaded: 1
+  isActive: 1

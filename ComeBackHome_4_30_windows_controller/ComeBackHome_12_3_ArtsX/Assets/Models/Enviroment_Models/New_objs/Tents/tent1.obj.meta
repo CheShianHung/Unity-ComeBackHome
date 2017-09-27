@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 573e00284dc0b9043b4b722558639077
+timeCreated: 1488683802
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface105_polySurface68
+    100004: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface101
+    100006: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface104
+    100008: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface106
+    100010: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface107
+    100012: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface108
+    100014: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface109
+    100016: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface105_polySurface68
+    100018: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface101
+    100020: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface102
+    100022: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface103
+    100024: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface104
+    100026: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface106
+    100028: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface107
+    100030: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface108
+    100032: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface109
+    100034: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface105
+    100036: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface107_polySurface68
+    100038: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface105
+    100040: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface107_polySurface68
+    400000: //RootNode
+    400002: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface105_polySurface68
+    400004: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface101
+    400006: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface104
+    400008: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface106
+    400010: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface107
+    400012: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface108
+    400014: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface109
+    400016: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface105_polySurface68
+    400018: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface101
+    400020: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface102
+    400022: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface103
+    400024: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface104
+    400026: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface106
+    400028: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface107
+    400030: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface108
+    400032: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface109
+    400034: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface105
+    400036: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface107_polySurface68
+    400038: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface105
+    400040: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface107_polySurface68
+    2300000: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface105_polySurface68
+    2300002: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface101
+    2300004: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface104
+    2300006: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface106
+    2300008: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface107
+    2300010: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface108
+    2300012: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface109
+    2300014: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface105_polySurface68
+    2300016: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface101
+    2300018: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface102
+    2300020: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface103
+    2300022: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface104
+    2300024: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface106
+    2300026: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface107
+    2300028: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface108
+    2300030: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface109
+    2300032: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface105
+    2300034: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface107_polySurface68
+    2300036: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface105
+    2300038: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface107_polySurface68
+    3300000: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface105_polySurface68
+    3300002: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface101
+    3300004: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface104
+    3300006: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface106
+    3300008: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface107
+    3300010: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface108
+    3300012: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface109
+    3300014: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface105_polySurface68
+    3300016: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface101
+    3300018: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface102
+    3300020: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface103
+    3300022: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface104
+    3300024: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface106
+    3300026: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface107
+    3300028: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface108
+    3300030: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface109
+    3300032: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface105
+    3300034: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface107_polySurface68
+    3300036: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface105
+    3300038: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface107_polySurface68
+    4300000: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface105_polySurface68
+    4300002: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface101
+    4300004: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface104
+    4300006: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface106
+    4300008: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface107
+    4300010: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface108
+    4300012: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface68_polySurface109
+    4300014: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface105_polySurface68
+    4300016: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface101
+    4300018: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface102
+    4300020: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface103
+    4300022: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface104
+    4300024: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface106
+    4300026: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface107
+    4300028: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface108
+    4300030: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface68_polySurface109
+    4300032: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface105
+    4300034: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface107_polySurface68
+    4300036: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface105
+    4300038: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface107_polySurface68
+    6400000: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface105
+    6400002: tent:m_sticks7_tent:pCone2_tent:polySurface5_tent:polySurface6_polySurface107_polySurface68
+    6400004: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface105
+    6400006: tent:m_sticks9_tent:pCone2_tent:polySurface4_tent:polySurface5_polySurface107_polySurface68
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

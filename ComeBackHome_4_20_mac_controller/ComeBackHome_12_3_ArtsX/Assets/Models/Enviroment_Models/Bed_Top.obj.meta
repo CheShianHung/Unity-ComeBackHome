@@ -1,0 +1,148 @@
+fileFormatVersion: 2
+guid: 70674301965f39b4d86d2bb58041f0ee
+timeCreated: 1480739099
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Bed_bear_rug_bed_Rugs
+    100002: Bed_m_log1
+    100004: Bed_m_log10
+    100006: Bed_m_log11
+    100008: Bed_m_log2
+    100010: Bed_m_log3
+    100012: Bed_m_log4
+    100014: Bed_m_log5
+    100016: Bed_m_log6
+    100018: Bed_m_log7
+    100020: Bed_m_log8
+    100022: Bed_m_log9
+    100024: Bed_Rugs_bear_rug_bed1
+    100026: Bed_Rugs_bear_rug_bed2
+    100028: //RootNode
+    100030: m_log_Bed
+    400000: Bed_bear_rug_bed_Rugs
+    400002: Bed_m_log1
+    400004: Bed_m_log10
+    400006: Bed_m_log11
+    400008: Bed_m_log2
+    400010: Bed_m_log3
+    400012: Bed_m_log4
+    400014: Bed_m_log5
+    400016: Bed_m_log6
+    400018: Bed_m_log7
+    400020: Bed_m_log8
+    400022: Bed_m_log9
+    400024: Bed_Rugs_bear_rug_bed1
+    400026: Bed_Rugs_bear_rug_bed2
+    400028: //RootNode
+    400030: m_log_Bed
+    2300000: Bed_bear_rug_bed_Rugs
+    2300002: Bed_m_log1
+    2300004: Bed_m_log10
+    2300006: Bed_m_log11
+    2300008: Bed_m_log2
+    2300010: Bed_m_log3
+    2300012: Bed_m_log4
+    2300014: Bed_m_log5
+    2300016: Bed_m_log6
+    2300018: Bed_m_log7
+    2300020: Bed_m_log8
+    2300022: Bed_m_log9
+    2300024: Bed_Rugs_bear_rug_bed1
+    2300026: Bed_Rugs_bear_rug_bed2
+    2300028: m_log_Bed
+    3300000: Bed_bear_rug_bed_Rugs
+    3300002: Bed_m_log1
+    3300004: Bed_m_log10
+    3300006: Bed_m_log11
+    3300008: Bed_m_log2
+    3300010: Bed_m_log3
+    3300012: Bed_m_log4
+    3300014: Bed_m_log5
+    3300016: Bed_m_log6
+    3300018: Bed_m_log7
+    3300020: Bed_m_log8
+    3300022: Bed_m_log9
+    3300024: Bed_Rugs_bear_rug_bed1
+    3300026: Bed_Rugs_bear_rug_bed2
+    3300028: m_log_Bed
+    4300000: Bed_bear_rug_bed_Rugs
+    4300002: Bed_m_log1
+    4300004: Bed_m_log10
+    4300006: Bed_m_log11
+    4300008: Bed_m_log2
+    4300010: Bed_m_log3
+    4300012: Bed_m_log4
+    4300014: Bed_m_log5
+    4300016: Bed_m_log6
+    4300018: Bed_m_log7
+    4300020: Bed_m_log8
+    4300022: Bed_m_log9
+    4300024: Bed_Rugs_bear_rug_bed1
+    4300026: Bed_Rugs_bear_rug_bed2
+    4300028: m_log_Bed
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

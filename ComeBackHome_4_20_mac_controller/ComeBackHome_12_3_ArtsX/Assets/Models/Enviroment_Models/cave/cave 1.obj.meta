@@ -1,0 +1,173 @@
+fileFormatVersion: 2
+guid: e70791231759f484f859a591f0503e31
+timeCreated: 1480405269
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: pCube5
+    100004: pCube6_polySurface7
+    100006: pCube6_polySurface9
+    100008: pCube6_Stalagmite_6:polySurface9
+    100010: polySurface6_pCube6
+    100012: Stalagmite_1
+    100014: Stalagmite_10
+    100016: Stalagmite_11
+    100018: Stalagmite_12
+    100020: Stalagmite_13
+    100022: Stalagmite_6:polySurface10_Stalagmite_6:Stalagmite_6:Stalagmite_14
+    100024: Stalagmite_6:Stalagmite_1
+    100026: Stalagmite_6:Stalagmite_11
+    100028: Stalagmite_6:Stalagmite_13
+    100030: Stalagmite_6:Stalagmite_6:Stalagmite_14_Stalagmite_6:polySurface11
+    100032: Stalagmite_6:Stalagmite_6:Stalagmite_14_Stalagmite_6:polySurface12
+    100034: Stalagmite_6:Stalagmite_6:Stalagmite_14_Stalagmite_6:polySurface13
+    100036: Stalagmite_7
+    100038: Stalagmite_8
+    100040: Stalagmite_9
+    400000: //RootNode
+    400002: pCube5
+    400004: pCube6_polySurface7
+    400006: pCube6_polySurface9
+    400008: pCube6_Stalagmite_6:polySurface9
+    400010: polySurface6_pCube6
+    400012: Stalagmite_1
+    400014: Stalagmite_10
+    400016: Stalagmite_11
+    400018: Stalagmite_12
+    400020: Stalagmite_13
+    400022: Stalagmite_6:polySurface10_Stalagmite_6:Stalagmite_6:Stalagmite_14
+    400024: Stalagmite_6:Stalagmite_1
+    400026: Stalagmite_6:Stalagmite_11
+    400028: Stalagmite_6:Stalagmite_13
+    400030: Stalagmite_6:Stalagmite_6:Stalagmite_14_Stalagmite_6:polySurface11
+    400032: Stalagmite_6:Stalagmite_6:Stalagmite_14_Stalagmite_6:polySurface12
+    400034: Stalagmite_6:Stalagmite_6:Stalagmite_14_Stalagmite_6:polySurface13
+    400036: Stalagmite_7
+    400038: Stalagmite_8
+    400040: Stalagmite_9
+    2300000: pCube5
+    2300002: pCube6_polySurface7
+    2300004: pCube6_polySurface9
+    2300006: pCube6_Stalagmite_6:polySurface9
+    2300008: polySurface6_pCube6
+    2300010: Stalagmite_1
+    2300012: Stalagmite_10
+    2300014: Stalagmite_11
+    2300016: Stalagmite_12
+    2300018: Stalagmite_13
+    2300020: Stalagmite_6:polySurface10_Stalagmite_6:Stalagmite_6:Stalagmite_14
+    2300022: Stalagmite_6:Stalagmite_1
+    2300024: Stalagmite_6:Stalagmite_11
+    2300026: Stalagmite_6:Stalagmite_13
+    2300028: Stalagmite_6:Stalagmite_6:Stalagmite_14_Stalagmite_6:polySurface11
+    2300030: Stalagmite_6:Stalagmite_6:Stalagmite_14_Stalagmite_6:polySurface12
+    2300032: Stalagmite_6:Stalagmite_6:Stalagmite_14_Stalagmite_6:polySurface13
+    2300034: Stalagmite_7
+    2300036: Stalagmite_8
+    2300038: Stalagmite_9
+    3300000: pCube5
+    3300002: pCube6_polySurface7
+    3300004: pCube6_polySurface9
+    3300006: pCube6_Stalagmite_6:polySurface9
+    3300008: polySurface6_pCube6
+    3300010: Stalagmite_1
+    3300012: Stalagmite_10
+    3300014: Stalagmite_11
+    3300016: Stalagmite_12
+    3300018: Stalagmite_13
+    3300020: Stalagmite_6:polySurface10_Stalagmite_6:Stalagmite_6:Stalagmite_14
+    3300022: Stalagmite_6:Stalagmite_1
+    3300024: Stalagmite_6:Stalagmite_11
+    3300026: Stalagmite_6:Stalagmite_13
+    3300028: Stalagmite_6:Stalagmite_6:Stalagmite_14_Stalagmite_6:polySurface11
+    3300030: Stalagmite_6:Stalagmite_6:Stalagmite_14_Stalagmite_6:polySurface12
+    3300032: Stalagmite_6:Stalagmite_6:Stalagmite_14_Stalagmite_6:polySurface13
+    3300034: Stalagmite_7
+    3300036: Stalagmite_8
+    3300038: Stalagmite_9
+    4300000: pCube5
+    4300002: pCube6_polySurface7
+    4300004: pCube6_polySurface9
+    4300006: pCube6_Stalagmite_6:polySurface9
+    4300008: polySurface6_pCube6
+    4300010: Stalagmite_1
+    4300012: Stalagmite_10
+    4300014: Stalagmite_11
+    4300016: Stalagmite_12
+    4300018: Stalagmite_13
+    4300020: Stalagmite_6:polySurface10_Stalagmite_6:Stalagmite_6:Stalagmite_14
+    4300022: Stalagmite_6:Stalagmite_1
+    4300024: Stalagmite_6:Stalagmite_11
+    4300026: Stalagmite_6:Stalagmite_13
+    4300028: Stalagmite_6:Stalagmite_6:Stalagmite_14_Stalagmite_6:polySurface11
+    4300030: Stalagmite_6:Stalagmite_6:Stalagmite_14_Stalagmite_6:polySurface12
+    4300032: Stalagmite_6:Stalagmite_6:Stalagmite_14_Stalagmite_6:polySurface13
+    4300034: Stalagmite_7
+    4300036: Stalagmite_8
+    4300038: Stalagmite_9
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
